@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[6464],{1773:e=>{e.exports=JSON.parse('{"title":"Iot","slug":"/category/iot","permalink":"/docs/category/iot","navigation":{"previous":{"title":"Country","permalink":"/docs/geo/country"},"next":{"title":"Gateway Type","permalink":"/docs/iot/gateway-type"}}}')}}]);
