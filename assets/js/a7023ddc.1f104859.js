@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"gxnz","permalink":"/blog/tags/gxnz","count":1},{"label":"gzitech","permalink":"/blog/tags/gzitech","count":1}]')}}]);
