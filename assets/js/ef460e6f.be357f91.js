@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2890],{4145:e=>{e.exports=JSON.parse('{"title":"File","description":"/opt/local/www/file.gxnz.com","slug":"/category/file","permalink":"/docs/category/file","navigation":{"previous":{"title":"user","permalink":"/docs/farm/user"},"next":{"title":"Bucket","permalink":"/docs/file/bucket"}}}')}}]);

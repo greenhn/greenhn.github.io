@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[9705],{5955:e=>{e.exports=JSON.parse('{"title":"Geo","description":"/opt/local/www/geo.gxnz.com","slug":"/category/geo","permalink":"/docs/category/geo","navigation":{"previous":{"title":"Object","permalink":"/docs/file/object"},"next":{"title":"City","permalink":"/docs/geo/city"}}}')}}]);
