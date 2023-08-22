@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[7839],{1354:a=>{a.exports=JSON.parse('{"title":"Cam","description":"/opt/local/www/cam.gxnz.com","slug":"/category/cam","permalink":"/docs/category/cam","navigation":{"previous":{"title":"User","permalink":"/docs/auth/user"},"next":{"title":"Brand","permalink":"/docs/cam/brand"}}}')}}]);

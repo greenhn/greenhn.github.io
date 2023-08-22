@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[1332],{2035:e=>{e.exports=JSON.parse('{"title":"Work","description":"/opt/local/www/work.gxnz.com","slug":"/category/work","permalink":"/docs/category/work","navigation":{"previous":{"title":"RtuType","permalink":"/docs/iot/rtu_type"},"next":{"title":"Issue","permalink":"/docs/work/issue"}}}')}}]);
